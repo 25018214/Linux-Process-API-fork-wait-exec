@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/wait.h>
@@ -16,3 +17,6 @@ int main() {
     }
 }
 
+=======
+//C Program to create new process using Linux API system calls fork() and exit()
+>>>>>>> 32b3b667a54c4241279f46caef05c2afffa5a006
